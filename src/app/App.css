@@ -1,0 +1,13 @@
+.logo{
+  color:#fff;
+  font-size: 20pt;
+}
+body{
+  background-color: rgb(247, 247, 247)
+}
+.mainContent{
+  padding:10px; 
+  height: 100%;
+  min-height: 100vh;
+  background-color: #fff;
+}
